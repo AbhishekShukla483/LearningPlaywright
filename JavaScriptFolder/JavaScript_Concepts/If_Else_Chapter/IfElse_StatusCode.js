@@ -1,4 +1,5 @@
-  /* function categorizedStatusCode(code)
+
+/* function categorizedStatusCode(code)
 {
     if (code >=200 && code <=299)
     {
